@@ -18,8 +18,8 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://ketto-org-clone.netlify.app/homepage-ui/homepage"  className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/MukulHowale/Ketto-Clone" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        <li><a target="_blank" href="https://ketto-org-clone.netlify.app/homepage-ui/homepage"  className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a target="_blank" href="https://github.com/MukulHowale/Ketto-Clone" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                       <i className="devicon-html5-plain-wordmark colored technology"></i>
@@ -40,8 +40,8 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://medikal.netlify.app/frontend/starting/starting_page.html"  className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/rahul428428/ePharmacy-Clone" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        <li><a target="_blank" href="https://medikal.netlify.app/frontend/starting/starting_page.html"  className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a target="_blank" href="https://github.com/rahul428428/ePharmacy-Clone" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                       <i className="devicon-html5-plain-wordmark colored technology"></i>
@@ -64,8 +64,8 @@ If you are an app user , on flights you can enjoy the auto split screen to scrol
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a  href="https://ease-my-trip-booking.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                        <li><a href="https://github.com/vermasuraj11011/EaseMyTrip-clone" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        <li><a target="_blank" href="https://ease-my-trip-booking.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a target="_blank" href="https://github.com/vermasuraj11011/EaseMyTrip-clone" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
                       <i className="devicon-html5-plain-wordmark colored technology"></i>

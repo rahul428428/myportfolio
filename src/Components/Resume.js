@@ -56,7 +56,7 @@ class Resume extends Component {
               <i className="devicon-spring-plain colored technology"></i>
               <i className="devicon-nodejs-plain colored technology "></i>
               <i className="devicon-heroku-plain-wordmark technology"></i>
-              <i className="devicon-docker-plain-wordmark technology"></i>
+              <i className="devicon-java-plain-wordmark colored technology"></i>
               <i className="devicon-mysql-plain-wordmark colored technology"></i>
               <i className="devicon-git-plain-wordmark colored technology"></i>
               <i className="devicon-github-original technology"></i>

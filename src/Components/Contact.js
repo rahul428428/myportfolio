@@ -24,9 +24,7 @@ class Contact extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      name: "a",
-      email: "b@gmail.com",
-      message: "c",
+       
       show: false,
     };
   }
